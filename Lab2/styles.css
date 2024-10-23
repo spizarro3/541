@@ -97,6 +97,7 @@
 
 #grid-section2 .gridboxblue {
 	grid-area: 1 / col1-start / last-line / 2;
+	position: sticky; 
 }
 
 #grid-section2 .gridboxred {
